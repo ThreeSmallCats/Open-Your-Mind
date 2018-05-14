@@ -1,0 +1,8 @@
+export const SET_ID = 'SET_ID'
+export const SET_IDTEXT = 'SET_IDTEXT'
+export const SET_PAGE = 'SET_PAGE'
+export const SET_GUESSTEXT = 'SET_GUESSTEXT'
+export const SET_GUESSANSWER = 'SET_GUESSANSWER'
+export const SET_GUESSMAX = 'SET_GUESSMAX'
+export const SET_HAPPYTEXT = 'SET_HAPPYTEXT'
+export const SET_HAPPYANSWER = 'SET_HAPPYANSWER'
