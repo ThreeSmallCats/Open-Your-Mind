@@ -3,6 +3,9 @@ export function pages(type){
 		let max = obj.max
 		let multiple = obj.multiple
 		let oldpage = parseInt(Math.random()*multiple)
+		if (oldpage === 0) {
+			oldpage = 1
+		}
 		return two(oldpage,max)
 	}
 
