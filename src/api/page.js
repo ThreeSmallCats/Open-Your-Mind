@@ -43,7 +43,7 @@ function types (type){
 		case 'miyujingxuan' : return {max : 0 , multiple : 0};
 		case 'njmy' : return {max : 46 , multiple : 100};
 		case 'zlmy' : return {max : 44 , multiple : 100};
-		case '图片' : return {max : 19 , multiple : 100};
+		case '图片' : return {max : 16 , multiple : 100};
 		case '笑话' : return {max : 469 , multiple : 1000};
 	}
 }
