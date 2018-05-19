@@ -9,6 +9,7 @@
 			<h2>免责声明</h2>
 			<h3>手机砸坏了不关我事喔~</h3>
 			<h4>作者：ThreeSmallCats</h4>
+			<h4>简历：<br><a href="https://tscats.cn/resume">https://tscats.cn/resume (请用电脑浏览)</a></h4>
 		</div>
 	</div>
 </div>
