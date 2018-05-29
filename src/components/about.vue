@@ -11,6 +11,7 @@
 			<h4>作者：ThreeSmallCats</h4>
 			<h4>简历：<br><a href="https://tscats.cn/resume">https://tscats.cn/resume (请用电脑浏览)</a></h4>
 			<h4>源码：<br><a href="https://github.com/ThreeSmallCats/Open-Your-Mind" target="_blank">——github源码——</a></h4>
+			<h4>此网站的升级版：<br><a href="https://threesmallcats.cn" target="_blank">https://threesmallcats.cn</a></h4>
 		</div>
 	</div>
 </div>
